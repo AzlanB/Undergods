@@ -1,0 +1,411 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>tile.png</Source>
+      <Name>tile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\tile.xnb</Output>
+      <Time>2022-03-03T13:37:24.734-06:00</Time>
+    </Item>
+    <Item>
+      <Source>player.png</Source>
+      <Name>player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\player.xnb</Output>
+      <Time>2022-03-22T13:51:25.529-05:00</Time>
+    </Item>
+    <Item>
+      <Source>shadow.png</Source>
+      <Name>shadow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\shadow.xnb</Output>
+      <Time>2022-03-22T13:22:14.915-05:00</Time>
+    </Item>
+    <Item>
+      <Source>player attack.png</Source>
+      <Name>player attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\player attack.xnb</Output>
+      <Time>2022-03-24T13:52:09.079-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tile0.png</Source>
+      <Name>tile0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\tile0.xnb</Output>
+      <Time>2022-03-03T11:15:02-06:00</Time>
+    </Item>
+    <Item>
+      <Source>tile1.png</Source>
+      <Name>tile1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\tile1.xnb</Output>
+      <Time>2022-03-03T11:15:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>tile2.png</Source>
+      <Name>tile2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\tile2.xnb</Output>
+      <Time>2022-03-03T11:15:24-06:00</Time>
+    </Item>
+    <Item>
+      <Source>tile3.png</Source>
+      <Name>tile3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\tile3.xnb</Output>
+      <Time>2022-03-03T11:15:30-06:00</Time>
+    </Item>
+    <Item>
+      <Source>tile4.png</Source>
+      <Name>tile4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\tile4.xnb</Output>
+      <Time>2022-03-03T11:15:16-06:00</Time>
+    </Item>
+    <Item>
+      <Source>player dash.png</Source>
+      <Name>player dash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\player dash.xnb</Output>
+      <Time>2022-04-11T14:15:24.225-05:00</Time>
+    </Item>
+    <Item>
+      <Source>big font.spritefont</Source>
+      <Name>big font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\big font.xnb</Output>
+      <Time>2022-04-01T13:49:35.013-05:00</Time>
+    </Item>
+    <Item>
+      <Source>small font.spritefont</Source>
+      <Name>small font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\small font.xnb</Output>
+      <Time>2022-04-01T14:10:22.846-05:00</Time>
+    </Item>
+    <Item>
+      <Source>logo.png</Source>
+      <Name>logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\logo.xnb</Output>
+      <Time>2022-04-01T14:06:06.036-05:00</Time>
+    </Item>
+    <Item>
+      <Source>controls.png</Source>
+      <Name>controls</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\controls.xnb</Output>
+      <Time>2022-04-05T13:09:18.874-05:00</Time>
+    </Item>
+    <Item>
+      <Source>player up attack.png</Source>
+      <Name>player up attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\player up attack.xnb</Output>
+      <Time>2022-04-19T14:05:29.138-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Panel 1.png</Source>
+      <Name>Panel 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\Panel 1.xnb</Output>
+      <Time>2022-03-26T14:26:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Panel 2.png</Source>
+      <Name>Panel 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\Panel 2.xnb</Output>
+      <Time>2022-03-27T16:13:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Panel 3.png</Source>
+      <Name>Panel 3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\Panel 3.xnb</Output>
+      <Time>2022-03-29T18:50:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Panel 4.png</Source>
+      <Name>Panel 4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\Panel 4.xnb</Output>
+      <Time>2022-03-29T19:18:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Panel 5.png</Source>
+      <Name>Panel 5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\Panel 5.xnb</Output>
+      <Time>2022-03-31T20:18:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Panel 6.png</Source>
+      <Name>Panel 6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\Panel 6.xnb</Output>
+      <Time>2022-03-22T19:32:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>face_off.mp3</Source>
+      <Name>face_off</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\face_off.xnb</Output>
+      <Extra>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\face_off.wma</Extra>
+      <Time>2018-12-28T14:22:08-06:00</Time>
+    </Item>
+    <Item>
+      <Source>renegade_assumptions.mp3</Source>
+      <Name>renegade_assumptions</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\renegade_assumptions.xnb</Output>
+      <Extra>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\renegade_assumptions.wma</Extra>
+      <Time>2016-04-04T17:05:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sword.wav</Source>
+      <Name>Sword</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\Sword.xnb</Output>
+      <Time>2022-04-13T14:01:08.642-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Aranea Blue.png</Source>
+      <Name>Aranea Blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\Aranea Blue.xnb</Output>
+      <Time>2022-03-24T11:57:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Aranea Idle.png</Source>
+      <Name>Aranea Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\Aranea Idle.xnb</Output>
+      <Time>2022-03-24T11:30:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Aranea Yellow.png</Source>
+      <Name>Aranea Yellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\Aranea Yellow.xnb</Output>
+      <Time>2022-03-24T11:57:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>blueproj.png</Source>
+      <Name>blueproj</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\blueproj.xnb</Output>
+      <Time>2022-04-13T14:18:37.632-05:00</Time>
+    </Item>
+    <Item>
+      <Source>yellowproj.png</Source>
+      <Name>yellowproj</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\yellowproj.xnb</Output>
+      <Time>2022-04-13T14:18:43.308-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Health Base.png</Source>
+      <Name>Health Base</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\Health Base.xnb</Output>
+      <Time>2022-04-26T13:25:26.731-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Health Color.png</Source>
+      <Name>Health Color</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\Health Color.xnb</Output>
+      <Time>2022-04-26T13:18:18.494-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Themis Health.png</Source>
+      <Name>Themis Health</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\Themis Health.xnb</Output>
+      <Time>2022-04-26T13:19:07.612-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Screech.wav</Source>
+      <Name>Screech</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\Screech.xnb</Output>
+      <Time>2022-04-28T13:24:45.864-05:00</Time>
+    </Item>
+    <Item>
+      <Source>defeat.png</Source>
+      <Name>defeat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\defeat.xnb</Output>
+      <Time>2022-04-28T13:06:54.046-05:00</Time>
+    </Item>
+    <Item>
+      <Source>victory.png</Source>
+      <Name>victory</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\victory.xnb</Output>
+      <Time>2022-04-28T13:06:54.086-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Grunt 2.wav</Source>
+      <Name>Grunt 2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\Grunt 2.xnb</Output>
+      <Time>2022-04-28T13:31:04.129-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Grunt 3.wav</Source>
+      <Name>Grunt 3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\Grunt 3.xnb</Output>
+      <Time>2022-04-28T13:32:18.121-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Grunt.wav</Source>
+      <Name>Grunt</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\Grunt.xnb</Output>
+      <Time>2022-04-28T13:28:54.999-05:00</Time>
+    </Item>
+    <Item>
+      <Source>death.mp3</Source>
+      <Name>death</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\death.xnb</Output>
+      <Extra>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\death.wma</Extra>
+      <Time>2022-04-28T14:07:56.297-05:00</Time>
+    </Item>
+    <Item>
+      <Source>win.mp3</Source>
+      <Name>win</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\win.xnb</Output>
+      <Extra>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\win.wma</Extra>
+      <Time>2022-04-28T14:05:09.763-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{D08ADC8A-8A2E-437D-9D48-942B713ECB74}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\UndergodsContent\</RootDirectory>
+      <LoggerRootDirectory>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\My Drive\1 VGP\Sprint 08\Undergods\Undergods\Undergods\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-06-27T10:17:09.1698641-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
